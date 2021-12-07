@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Project Portfolio on Marcus Tay</title>
+    <link>https://marcustaykw.github.io/portfolio/post/</link>
+    <description>Recent content in Project Portfolio on Marcus Tay</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 06 Dec 2021 12:00:00 -0500</lastBuildDate><atom:link href="https://marcustaykw.github.io/portfolio/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>In Progress</title>
+      <link>https://marcustaykw.github.io/portfolio/post/project-2/</link>
+      <pubDate>Wed, 01 Dec 2021 11:00:59 -0400</pubDate>
+      
+      <guid>https://marcustaykw.github.io/portfolio/post/project-2/</guid>
+      <description>Link to GitHub Repository</description>
+    </item>
+    
+    <item>
+      <title>In Progress</title>
+      <link>https://marcustaykw.github.io/portfolio/post/project-3/</link>
+      <pubDate>Wed, 01 Dec 2021 11:00:59 -0400</pubDate>
+      
+      <guid>https://marcustaykw.github.io/portfolio/post/project-3/</guid>
+      <description>Link to GitHub Repository</description>
+    </item>
+    
+    <item>
+      <title>Classification Task: Stroke Prediction Application</title>
+      <link>https://marcustaykw.github.io/portfolio/post/project-1/</link>
+      <pubDate>Sun, 28 Nov 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://marcustaykw.github.io/portfolio/post/project-1/</guid>
+      <description>Created a predictive tool to that determines the likelihood of a person being diagnosed with stroke based on their lifestyle and health measurements.
+  Preprocessing was conducted to identify the important lifestyle variables that contributes to stroke.
+  Random Forest and XG Boost algorithms
+  Created a reproducible report for business decision-makers with R Markdown
+  Deployed a user-oriented dashboard that can be made available for the public using Shiny.</description>
+    </item>
+    
+  </channel>
+</rss>
